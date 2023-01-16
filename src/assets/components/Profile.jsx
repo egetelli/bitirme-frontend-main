@@ -7,7 +7,6 @@ import { useNavigate } from "react-router";
 import ParticlesBg from "particles-bg";
 import CryptoPaymentsForm from './CryptoPaymentsForm'
 import Wallet1 from './Wallet1'
-import UserPage from './UserPage'
 
 
 const Profile = () => {
